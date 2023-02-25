@@ -14,7 +14,8 @@ char cal; //cal means calulation:
 
     cout<<"Enter which operation you have to perform: '+' ,'-' ,'*' ,'/'"<<endl;
     cin>>cal;
-
+    
+    //switch cases:
     switch (cal)
     {
     case '+':
