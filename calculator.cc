@@ -1,4 +1,5 @@
 //Program of switch case for making calculator
+//for differents operations.
 
 #include<iostream>
 using namespace std;
